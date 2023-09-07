@@ -1,0 +1,6 @@
+#!/bin/bash
+echo "input your file name "
+read var
+echo "#!/bin/bash">>$var
+vim $var
+
