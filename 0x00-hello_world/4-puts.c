@@ -1,10 +1,10 @@
 #include <stdio.h>
 /**
- * main - ssss
+ * main - amo
  *
- * Description: sssss
+ * Description: amo
  *
- * Return: ssssss
+ * Return: amo
 */
 int main(void)
 {
