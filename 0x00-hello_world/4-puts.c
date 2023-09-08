@@ -1,13 +1,13 @@
 #include <stdio.h>
-/*
- * main - print output
+/**
+ * main - ssss
  *
- * description: print syntex
+ * Description: sssss
  *
- * return: zero 
- */
+ * Return: ssssss
+*/
 int main(void)
 {
-puts("\"programming is like building a multilingual puzzle");
+puts("\"Programming is like building a multilingual puzzle");
 return (0);
 }
