@@ -1,7 +1,9 @@
 #include <stdio.h>
 /*
  * main - print output
- * description: print syntex 
+ *
+ * description: print syntex
+ *
  * return: zero 
  */
 int main(void)
